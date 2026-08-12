@@ -1,8 +1,8 @@
 # Tamirlan Mirgali
 
-Backend Developer - C# / ASP.NET Core 
-Almaty, Kazakhstan
-B.Sc. in Information Systems, KBTU (2023–2027)
+ Backend Developer — C# / ASP.NET Core  
+ Almaty, Kazakhstan  
+ B.Sc. in Information Systems, KBTU (2023–2027)
 
 ---
 
