@@ -8,7 +8,7 @@
 
 ### Tech Stack
 
-- **Languages:** C#, Go, Java, 
+- **Languages:** C#, Go, Java
 - **Backend:** ASP.NET Core, Entity Framework Core, REST APIs
 - **Databases:** PostgreSQL, Microsoft SQL Server
 - **Tools:** Docker, Git, GitHub Actions
