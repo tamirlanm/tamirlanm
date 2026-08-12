@@ -1,4 +1,26 @@
-## Hi there 👋
+# Tamirlan Mirgali
+
+Backend Developer  
+C# / ASP.NET Core / 
+Almaty, Kazakhstan
+B.Sc. in Information Systems, KBTU (2023–2027)
+
+---
+
+### Tech Stack
+
+- **Languages:** C#, Go, Java, SQL
+- **Backend:** ASP.NET Core, Entity Framework Core, REST APIs
+- **Databases:** PostgreSQL, Microsoft SQL Server
+- **Tools:** Docker, Git, GitHub Actions
+
+---
+
+### Contacts
+
+- *Email:* tamirlanmirgali@gmail.com
+- *LinkedIn:* https://www.linkedin.com/in/tamirlan-mirgali/
+- *GitHub:* https://www.github.com/tamirlanm/
 
 <!--
 **tamirlanm/tamirlanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
