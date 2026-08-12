@@ -18,9 +18,9 @@ B.Sc. in Information Systems, KBTU (2023–2027)
 
 ### Contacts
 
-- *Email:* tamirlanmirgali@gmail.com
-- *LinkedIn:* https://www.linkedin.com/in/tamirlan-mirgali/
-- *GitHub:* https://www.github.com/tamirlanm/
+- Email: tamirlanmirgali@gmail.com
+- LinkedIn: https://www.linkedin.com/in/tamirlan-mirgali/
+- GitHub: https://www.github.com/tamirlanm/
 
 <!--
 **tamirlanm/tamirlanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
