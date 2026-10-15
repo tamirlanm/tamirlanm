@@ -11,7 +11,7 @@
 - **Languages:** C#, Go, Java
 - **Backend:** ASP.NET Core, Entity Framework Core, REST APIs
 - **Databases:** PostgreSQL, Microsoft SQL Server
-- **Tools:** Docker, Git, GitHub Actions
+- **Tools:** Docker, Git, GitHub Actions, Nginx, VSC, Visual Studio, WebSocket
 
 ---
 
